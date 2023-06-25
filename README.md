@@ -1,7 +1,6 @@
 ### Hi there 👋
-<a href="http://zhangwenli.com/?ref=gh">
-  <img width="100%" src="https://user-images.githubusercontent.com/779050/90329898-08ff4380-dfdb-11ea-8ea8-3d8d06182e08.png">
-</a>
+
+ <img width="100%" src="https://user-images.githubusercontent.com/779050/90329898-08ff4380-dfdb-11ea-8ea8-3d8d06182e08.png">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alicehhhmm&show_icons=true)
 
