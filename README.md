@@ -1,5 +1,3 @@
-### Hi  👋  ༼ つ ◕_◕ ༽つ 
-
 <img src="/resume-banner.png" alt="Norush" style="width: 100%;" />
  
 <!--
