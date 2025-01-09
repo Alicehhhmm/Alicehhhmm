@@ -1,10 +1,6 @@
 ### Hi  👋  ༼ つ ◕_◕ ༽つ 
 
-- ✅ ♻️ 🐦 🐹 🐛 🍇 🌱 🍀 🌼 🌸 ❄️
-- 🤔 😄 🤗 👦 🤝 👉 📫 📦 📚 📝- 👯 👥 ⛹🏾‍♂️ 🎭🤺 
-- 🚢 🚄 🚀 ⚡ ⚠️ 🛡️ 🔥 ✨  🎈 - 💬 🕸🔭 💻 🔨 🛠  ⚔️ 🏹 🥂 🧪 💊
-
-
+<img src="/resume-banner.png" alt="Norush" style="width: 100%;" />
  
 <!--
 **Alicehhhmm/Alicehhhmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
